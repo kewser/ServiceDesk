@@ -1,3 +1,3 @@
 # ServiceDesk
-App for small companies that do PC or HDD services
+Application for small companies providing computer and disk service.
 Default access credentials admin/admin .
