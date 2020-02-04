@@ -6,8 +6,9 @@ Default access credentials admin/admin .<br/><br/>
 Updated version: 04.02.2020. - v1.02
 
 <b>v1.03 - To do:</b><br> 
-- search<br>
-- log view<br>
-- user pictures <br>
+- Search<br>
+- Log view<br>
+- User pictures <br>
+- Bug report <br>
 
 
