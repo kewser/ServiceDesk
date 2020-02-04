@@ -7,6 +7,7 @@ Updated version: 04.02.2020. - v1.02
 
 <b>v1.03 - To do:</b><br> 
 - Search<br>
+- Field validation <br>
 - Log view<br>
 - User pictures <br>
 - Bug report <br>
